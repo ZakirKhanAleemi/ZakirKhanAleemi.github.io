@@ -6,7 +6,8 @@
 name: Zakir Khan Aleemi
 
 # Short bio or description (displayed in the header)
-description: Data Rockstar 🚀 - Big Data, Data Science and Cloud - Architect / Engineer / Analytics
+description: Data Rockstar 🚀 - Big Data, Data Science 
+and Cloud - Architect / Engineer / Analytics
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/ZakirKhanAleemi
@@ -23,7 +24,7 @@ footer-links:
   flickr:
   github: ZakirKhanAleemi
   instagram:
-  linkedin:https://www.linkedin.com/in/zakirkhanaleemi/
+  linkedin: https://www.linkedin.com/in/zakirkhanaleemi/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
