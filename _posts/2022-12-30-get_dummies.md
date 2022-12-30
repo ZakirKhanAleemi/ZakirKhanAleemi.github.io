@@ -11,7 +11,7 @@ It takes a dataframe and a list of columns as input, and returns a new dataframe
 
 Here's an example of how you might use `get_dummies`:
 
-```
+`
 import pandas as pd
 
 # Create a sample dataframe with a categorical column
@@ -25,10 +25,10 @@ print(df)
 
 # The new dataframe with 'color' converted into dummy variables
 print(df_dummies)
-```
+`
 The output of this code would be:
 
-```
+`
    color  value
 0    red      1
 1  green      2
@@ -41,6 +41,6 @@ The output of this code would be:
 2      3           1            0          0
 3      4           0            0          1
 4      5           0            1          0
-```
+`
 
 As you can see, the original 'color' column has been replaced with three new columns: 'color_blue', 'color_green', and 'color_red', which indicate the presence or absence of each color in the original data.
